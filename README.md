@@ -6,6 +6,8 @@ A responsive, beginner-friendly roadmap site for learning full-stack web develop
 
 This is the standalone public copy of the website originally developed in [Anujbarwal/Anujbarwal](https://github.com/Anujbarwal/Anujbarwal). The original feature-by-feature pull request history is documented below.
 
+The profile README now links back to this live site, its source, build guide, commit history, and all 15 feature PRs: [view the profile integration](https://github.com/Anujbarwal/Anujbarwal/pull/16) or its [merged commit](https://github.com/Anujbarwal/Anujbarwal/commit/743513b0186b77d547340db21874313bab25a99b).
+
 ## Build it step by step
 
 ### 1. Start with the smallest useful version
@@ -161,6 +163,12 @@ These are the 15 merged pull requests that built the original website in [Anujba
 15. [PR #15 — Add rotating computer science quotes section](https://github.com/Anujbarwal/Anujbarwal/pull/15)
 
     Added a separate quote card for public-domain computing-history passages from Charles Babbage and Ada Lovelace. It shows the author, book/source, and a link to the original text; it changes every five seconds with an animation and includes pause/resume controls.
+
+### Connected profile and repository commits
+
+- [Profile README integration — PR #16](https://github.com/Anujbarwal/Anujbarwal/pull/16) links the live site, this public source repository, this build guide, both repositories' commit histories, and every feature PR from the profile README.
+- [Merged profile commit `743513b`](https://github.com/Anujbarwal/Anujbarwal/commit/743513b0186b77d547340db21874313bab25a99b) contains that README update.
+- [Standalone publication commit `2dc7396`](https://github.com/Anujbarwal/Full-Stack-From-Zero-Roadmap/commit/2dc73969c4c79ad4604f347390254c708bbbe78b) initially published this website, deployment workflow, license, and build guide.
 
 ## Technology and scope
 
